@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aynuran\\Desktop\\SQL\\AcademyDataManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3454F0D-7F15-4372-8C27-F01AEC2C7AD7}|AcademyDataManagement\\AcademyDataManagement.csproj|c:\\users\\aynuran\\desktop\\sql\\academydatamanagement\\academydatamanagement\\studentsqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3454F0D-7F15-4372-8C27-F01AEC2C7AD7}|AcademyDataManagement\\AcademyDataManagement.csproj|solutionrelative:academydatamanagement\\studentsqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3454F0D-7F15-4372-8C27-F01AEC2C7AD7}|AcademyDataManagement\\AcademyDataManagement.csproj|c:\\users\\aynuran\\desktop\\sql\\academydatamanagement\\academydatamanagement\\istudentsqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3454F0D-7F15-4372-8C27-F01AEC2C7AD7}|AcademyDataManagement\\AcademyDataManagement.csproj|solutionrelative:academydatamanagement\\istudentsqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3454F0D-7F15-4372-8C27-F01AEC2C7AD7}|AcademyDataManagement\\AcademyDataManagement.csproj|c:\\users\\aynuran\\desktop\\sql\\academydatamanagement\\academydatamanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3454F0D-7F15-4372-8C27-F01AEC2C7AD7}|AcademyDataManagement\\AcademyDataManagement.csproj|solutionrelative:academydatamanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3454F0D-7F15-4372-8C27-F01AEC2C7AD7}|AcademyDataManagement\\AcademyDataManagement.csproj|c:\\users\\aynuran\\desktop\\sql\\academydatamanagement\\academydatamanagement\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3454F0D-7F15-4372-8C27-F01AEC2C7AD7}|AcademyDataManagement\\AcademyDataManagement.csproj|solutionrelative:academydatamanagement\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3454F0D-7F15-4372-8C27-F01AEC2C7AD7}|AcademyDataManagement\\AcademyDataManagement.csproj|c:\\users\\aynuran\\desktop\\sql\\academydatamanagement\\academydatamanagement\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3454F0D-7F15-4372-8C27-F01AEC2C7AD7}|AcademyDataManagement\\AcademyDataManagement.csproj|solutionrelative:academydatamanagement\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLHelper.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\SQL\\AcademyDataManagement\\AcademyDataManagement\\SQLHelper.cs",
+              "RelativeDocumentMoniker": "AcademyDataManagement\\SQLHelper.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\SQL\\AcademyDataManagement\\AcademyDataManagement\\SQLHelper.cs",
+              "RelativeToolTip": "AcademyDataManagement\\SQLHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:48:07.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentSQLService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\SQL\\AcademyDataManagement\\AcademyDataManagement\\StudentSQLService.cs",
+              "RelativeDocumentMoniker": "AcademyDataManagement\\StudentSQLService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\SQL\\AcademyDataManagement\\AcademyDataManagement\\StudentSQLService.cs",
+              "RelativeToolTip": "AcademyDataManagement\\StudentSQLService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:42:04.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentSQLService.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\SQL\\AcademyDataManagement\\AcademyDataManagement\\IStudentSQLService.cs",
+              "RelativeDocumentMoniker": "AcademyDataManagement\\IStudentSQLService.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\SQL\\AcademyDataManagement\\AcademyDataManagement\\IStudentSQLService.cs",
+              "RelativeToolTip": "AcademyDataManagement\\IStudentSQLService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:41:33.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\SQL\\AcademyDataManagement\\AcademyDataManagement\\Student.cs",
+              "RelativeDocumentMoniker": "AcademyDataManagement\\Student.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\SQL\\AcademyDataManagement\\AcademyDataManagement\\Student.cs",
+              "RelativeToolTip": "AcademyDataManagement\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:39:02.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aynuran\\Desktop\\SQL\\AcademyDataManagement\\AcademyDataManagement\\Program.cs",
+              "RelativeDocumentMoniker": "AcademyDataManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\aynuran\\Desktop\\SQL\\AcademyDataManagement\\AcademyDataManagement\\Program.cs",
+              "RelativeToolTip": "AcademyDataManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:37:07.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
