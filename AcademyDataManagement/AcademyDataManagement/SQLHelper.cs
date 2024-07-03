@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -9,7 +10,7 @@ namespace AcademyDataManagement
 {
     public static class SQLHelper
     {
-        const string SqlConnectionString= "Server=SIRIUS05;Database=Academy_Data;Trusted_Connection=True;";
+        const string SqlConnectionString= "Server=WIN-S7KB46T76ET;Database=Academy_Data_Tables;Trusted_Connection=True;TrustServerCertificate=True";
         static SqlConnection _sqlConnection = null;
         public static SqlConnection SQLconnection {
             get { if (_sqlConnection == null)
@@ -34,6 +35,23 @@ namespace AcademyDataManagement
             return check;
         }
         
+        public static DataTable ReadAll(string com)
+        {
+            SQLconnection.Open();
+            DataTable dataTable = new DataTable();
+            using(SqlDataAdapter adapter= new SqlDataAdapter(com, SQLconnection))
+            {
+                adapter.Fill(dataTable);
+            }
+
+            SQLconnection.Close();
+            return dataTable;
+        }
+     
+            
+        }
+
+           
 
     }
-}
+

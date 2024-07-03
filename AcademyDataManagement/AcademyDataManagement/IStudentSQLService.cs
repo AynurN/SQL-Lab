@@ -8,8 +8,8 @@ namespace AcademyDataManagement
 {
     public interface IStudentSQLService
     {
-        void GetData(int id);
-        void GetAllDatas();
+        Student GetData(int id);
+        List<Student> GetAllDatas();
         void Insert(Student student);
         void Delete(int id);
         void Update(int id, string command, string newData);
